@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://byxnii1l0e0uw"]
+
+[ext_resource type="PackedScene" uid="uid://c7ufc3sm3yruu" path="res://Action Idle To Fight Idle.fbx" id="1_jbwfu"]
+
+[node name="Action Idle To Fight Idle" unique_id=162608717 instance=ExtResource("1_jbwfu")]

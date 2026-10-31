@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://0jd4ohy4ah6f"]
+
+[ext_resource type="PackedScene" uid="uid://bu7rqoyvrxfbt" path="res://seumadruga/a83693820966a03302c52125f3523dcd.fbx" id="1_4pwqe"]
+
+[node name="a83693820966a03302c52125f3523dcd" unique_id=402111205 instance=ExtResource("1_4pwqe")]

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bex62m13nmhhd"
+path="res://.godot/imported/soco carregado efeitos sonoros de dragon ball.wav-c58478c6197efd6eede4a8fde8acce53.sample"
+
+[deps]
+
+source_file="res://soco carregado efeitos sonoros de dragon ball.wav"
+dest_files=["res://.godot/imported/soco carregado efeitos sonoros de dragon ball.wav-c58478c6197efd6eede4a8fde8acce53.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://c7h38g5464blj"]
+
+[ext_resource type="PackedScene" uid="uid://dmlpls0l8qsux" path="res://Punch Combo.fbx" id="1_qj7jd"]
+
+[node name="Punch Combo" unique_id=1368742019 instance=ExtResource("1_qj7jd")]

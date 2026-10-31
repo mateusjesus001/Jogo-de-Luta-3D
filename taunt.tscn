@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://dydphntnsmu1j"]
+
+[ext_resource type="PackedScene" uid="uid://be3225nw5l3e" path="res://Taunt.fbx" id="1_3jvdv"]
+
+[node name="Taunt" unique_id=645211483 instance=ExtResource("1_3jvdv")]

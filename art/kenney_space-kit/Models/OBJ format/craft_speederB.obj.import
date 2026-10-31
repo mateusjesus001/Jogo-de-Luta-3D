@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cpfkicqwwu64g"
+path="res://.godot/imported/craft_speederB.obj-8c53b353db4817ce61bb84e3c98a216a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/craft_speederB.obj-8c53b353db4817ce61bb84e3c98a216a.mesh"]
+
+source_file="res://art/kenney_space-kit/Models/OBJ format/craft_speederB.obj"
+dest_files=["res://.godot/imported/craft_speederB.obj-8c53b353db4817ce61bb84e3c98a216a.mesh", "res://.godot/imported/craft_speederB.obj-8c53b353db4817ce61bb84e3c98a216a.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

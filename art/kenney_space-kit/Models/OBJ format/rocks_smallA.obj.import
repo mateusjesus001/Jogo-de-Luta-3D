@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://7xkc82un3c47"
+path="res://.godot/imported/rocks_smallA.obj-0098a96e3ccafd5a17be05c200d7a8a9.mesh"
+
+[deps]
+
+files=["res://.godot/imported/rocks_smallA.obj-0098a96e3ccafd5a17be05c200d7a8a9.mesh"]
+
+source_file="res://art/kenney_space-kit/Models/OBJ format/rocks_smallA.obj"
+dest_files=["res://.godot/imported/rocks_smallA.obj-0098a96e3ccafd5a17be05c200d7a8a9.mesh", "res://.godot/imported/rocks_smallA.obj-0098a96e3ccafd5a17be05c200d7a8a9.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

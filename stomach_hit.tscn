@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://bkp4qmyargqsr"]
+
+[ext_resource type="PackedScene" uid="uid://bfv3tmodbx8eo" path="res://Stomach Hit.fbx" id="1_5wt75"]
+
+[node name="Stomach Hit" unique_id=226715219 instance=ExtResource("1_5wt75")]

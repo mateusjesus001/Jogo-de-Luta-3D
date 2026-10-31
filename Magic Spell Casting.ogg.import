@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://xamtujptyjyq"
+path="res://.godot/imported/Magic Spell Casting.ogg-469509f5ccbdd65326c755142ec83dfb.oggvorbisstr"
+
+[deps]
+
+source_file="res://Magic Spell Casting.ogg"
+dest_files=["res://.godot/imported/Magic Spell Casting.ogg-469509f5ccbdd65326c755142ec83dfb.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
